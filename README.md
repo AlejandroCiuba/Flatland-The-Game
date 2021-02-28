@@ -1,5 +1,8 @@
 # Flatland-The-Game
-My CSC Hacks 2020 Project. Play as a triangle trying to beat the evil Fermat before all of Flatland is destroyed. 
+My CSC Hacks 2020 Project. Play as a triangle trying to beat the evil Fermat before all of Flatland is destroyed.
+
+Link to game (Windows): https://computer-cat.itch.io/flatland-the-game
+File is too big for GitHub :(
 
 ## CSC Hacks 2021 Winner + Best Beginner Project
 
